@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "oussamabengagi@gmail.com",
+      "email": "oussamabengagi@gmail.com",
+      "mobile": "+21652915609",
+      "adresse": "Boussalem",
+      "services": null
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
